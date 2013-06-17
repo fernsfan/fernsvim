@@ -5,10 +5,13 @@ fernsvim
 my vim configuration
 
 git clone https://github.com/fernsfan/fernsvim.git
+If have ssl problem, maybe you should do this:
+export GIT_SSL_NO_VERIFY=true
 
 You should upgrade your vim to 7.3+ for this vimrc
 
 ***Install Vim 7.3***
+wget ftp://ftp.vim.org/pub/vim/unix/vim-7.3.tar.bz2
 tar xvjf vim-7.3.tar.bz2 
 cd vim-7.3
 ./configure --with-features=huge --enable-pythoninterp --enable-rubyinterp --enable-perlinterp
