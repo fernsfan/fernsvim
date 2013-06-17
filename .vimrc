@@ -276,8 +276,12 @@ set guifont=YaHei\ Consolas\ Hybrid\ 12
 "set fencs=utf-8,gbk,gb2312,gb18030,cp936,usc-bom,euc-jp
 
 " 设置编码自动识别, 中文引号显示  
-set fileencodings=utf-8,cp936,big5,euc-jp,euc-kr,latin1,ucs-bom  
-set fileencodings=utf-8,gbk  
+set fileencodings=utf-8,cp936,big5,euc-jp,euc-kr,latin1,ucs-bom,gbk
+"set fileencodings=utf-8,gbk  
+"set fileencodings=utf-8,gb2312,gbk,gb18030
+set termencoding=utf-8
+set fileformats=unix
+set encoding=prc
 set ambiwidth=double 
 
 " 不要使用vi的键盘模式，而是vim自己的
