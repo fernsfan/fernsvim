@@ -1,0 +1,3 @@
+./bundle/c.vim/c-support/codesnippets/calloc_double_matrix.c
+./bundle/c.vim/c-support/codesnippets/calloc_int_matrix.c
+./bundle/c.vim/c-support/codesnippets/main.c

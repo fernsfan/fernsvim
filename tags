@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+calloc_double_matrix	./bundle/c.vim/c-support/codesnippets/calloc_double_matrix.c	/^calloc_double_matrix ( int rows, int columns )$/;"	f	signature:( int rows, int columns )
+calloc_int_matrix	./bundle/c.vim/c-support/codesnippets/calloc_int_matrix.c	/^calloc_int_matrix ( int rows, int columns )$/;"	f	signature:( int rows, int columns )
+free_double_matrix	./bundle/c.vim/c-support/codesnippets/calloc_double_matrix.c	/^free_double_matrix ( double **m )$/;"	f	signature:( double **m )
+free_int_matrix	./bundle/c.vim/c-support/codesnippets/calloc_int_matrix.c	/^free_int_matrix ( int **m )$/;"	f	signature:( int **m )
+main	./bundle/c.vim/c-support/codesnippets/main.c	/^main ( int argc, char *argv[] )$/;"	f	signature:( int argc, char *argv[] )
