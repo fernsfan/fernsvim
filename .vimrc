@@ -561,7 +561,8 @@ au BufReadPost *.nfo call RestoreFileEncodings()
 au BufRead,BufNewFile *  setfiletype txt
 
 " 用空格键来开关折叠
-set foldenable
+"set foldenable
+set nofoldenable
 set foldmethod=manual
 nnoremap <space> @=((foldclosed(line('.')) < 0) ? 'zc' : 'zo')<CR>
 
