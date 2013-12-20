@@ -109,6 +109,9 @@ Bundle 'pythoncomplete'
 Bundle 'PyChimp'
 Bundle "Python-2.x-Standard-Library-Reference"
 
+"auto file encode    
+Bundle 'FencView.vim'
+
 "C
 Bundle 'cscope.vim'
 "Bundle 'cscope_maps.vim'

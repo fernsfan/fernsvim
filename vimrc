@@ -89,6 +89,9 @@ Bundle 'python.vim'
 Bundle 'python_match.vim'
 Bundle 'pythoncomplete'
 
+"auto file encode    
+Bundle 'FencView.vim'
+
 "C
 "Bundle 'autoload_cscope.vim'
 "Bundle 'ShowMarks'
